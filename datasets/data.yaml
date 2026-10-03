@@ -1,0 +1,6 @@
+# data.yaml
+train: ./datasets/train/images  # 訓練集圖片路徑
+val: ./datasets/val/images      # 驗證集圖片路徑
+
+nc: 1                           # Number of classes (類別數量)
+names: ['zongzi']               # 類別名稱
